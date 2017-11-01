@@ -11,6 +11,7 @@
         and distributor, holding a portfolio of exclusive distributorship in bathroom and kitchen products numbering 42
         brands.
     </description>
+    
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
@@ -21,7 +22,7 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
-    
+
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
     <platform name="android">
         <preference name="Orientation" value="portrait" />
