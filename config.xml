@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget   id          =     "simsiangchoon.app"
-          version     =    "11.2.4"
+          version     =    "11.2.5"
           xmlns       =    "http://www.w3.org/ns/widgets"
           xmlns:gap   =    "http://phonegap.com/ns/1.0"
-          versionCode =   "110204">
+          versionCode =   "110205">
     <name>simsiangchoon</name>
     <description>
         Founded in 1986, Sim Siang Choon Hardware Pte Ltd is today one of the leading specialist retailers of bathroom,
